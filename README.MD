@@ -1,4 +1,4 @@
-# Biscoico da Sorte - Desafio Lend 05 - Explorer
+# Biscoito da Sorte - Desafio Lend 05 - Explorer
 > TRILHA EXPLORER
 
 ![preview](./assets/print1.jpeg)
