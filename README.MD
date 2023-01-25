@@ -1,8 +1,8 @@
-# Bisoico da Sorte - Desafio Lend 05 - Explorer
+# Biscoico da Sorte - Desafio Lend 05 - Explorer
 > TRILHA EXPLORER
 
-![preview](./Print1.jpeg)
-![preview](./Print1.jpeg)
+![preview](./assets/print1.jpeg)
+![preview](./assets/print2.jpeg)
 
 ## 🔧 Tecnologias 🔧
 
